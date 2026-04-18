@@ -5,6 +5,9 @@
 ## Author
 Mingwei Zhang - 13337649640@163.com
 
+## System requirements:
+`Windows` (tested on `Windows 11`).
+
 ## Model Parameters
 layers = 2;
 d_model = 128;
