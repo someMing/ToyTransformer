@@ -1,0 +1,15 @@
+{
+  "src_vocab_size": 2819,
+  "tgt_vocab_size": 3000,
+  "d_model": 128,
+  "num_layers": 2,
+  "heads": 4,
+  "d_ff": 256,
+  "max_len": 21,
+  "src_max_len": 21,
+  "tgt_max_len": 20,
+  "warmup_steps": 1000,
+  "batch_size": 32,
+  "dropout_rate": 0.1,
+  "train_size": 28637
+}
